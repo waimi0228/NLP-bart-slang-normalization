@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+pyvenv.cfg
+
+# Data / outputs / models
+data/
+!data/*.csv
+outputs/
+checkpoints/
+*.pt
+*.bin
+*.ckpt
+*.log
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

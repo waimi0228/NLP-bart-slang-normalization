@@ -1,0 +1,9 @@
+torch==1.13.1
+transformers==4.17.0
+datasets==2.4.0
+sentencepiece
+evaluate==0.4.0
+pandas>=1.3.0
+nltk
+rouge_score
+absl-py
