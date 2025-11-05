@@ -13,8 +13,7 @@ ENV/
 pyvenv.cfg
 
 # Data / outputs / models
-data/
-!data/*.csv
+
 outputs/
 checkpoints/
 *.pt
